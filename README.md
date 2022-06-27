@@ -2,7 +2,7 @@
 
 - This is a simple bio blurb made wit React. It toggles between light and dark mode.
 
-<img src='/blurb.gif'>
+<img src='/public/blurb.gif'>
 
 ## Tech used
 
