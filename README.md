@@ -6,9 +6,9 @@
 
 ## Tech used
 
-- HTML
-- CSS
 - React
+- CSS
+
 
 ## Lesson learned
 
